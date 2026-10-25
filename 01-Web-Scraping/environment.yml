@@ -1,0 +1,12 @@
+
+name: web-scraping
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - requests
+  - beautifulsoup4
+  - pandas
+  - pytest
