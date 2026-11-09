@@ -1,0 +1,16 @@
+{
+    "generated_at": "2026-11-09T10:19:07.052409+00:00",
+    "source": "messy_books.csv",
+    "cleaned_file": "cleaned_books.csv",
+    "before_cleaning": {
+        "rows": 102,
+        "missing_values": 2,
+        "duplicate_urls": 2
+    },
+    "after_cleaning": {
+        "rows": 100,
+        "missing_values": 0,
+        "duplicate_urls": 0
+    },
+    "rows_removed": 2
+}
