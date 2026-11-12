@@ -221,3 +221,7 @@ __marimo__/
 
 # Generated SQLite databases
 *.db
+
+# Automated ETL runtime outputs
+04-Automated-ETL/logs/
+04-Automated-ETL/reports/
