@@ -44,7 +44,7 @@ The scraper collects 100 book records across five pages and exports the results 
 Clone the repository:
 
 ```bash
-git clone https://github.com/bynaim/Python-Data-Engineering-Lab.git
+git clone https://github.com/naimNB/Python-Data-Engineering-Lab.git
 cd Python-Data-Engineering-Lab/01-Web-Scraping
 ```
 
