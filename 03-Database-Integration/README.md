@@ -64,7 +64,7 @@ The pipeline processes 100 book records and supports repeatable imports without 
 Clone the repository:
 
 ```bash
-git clone https://github.com/naimNB/Python-Data-Engineering-Lab.git
+git clone https://github.com/bynaim/Python-Data-Engineering-Lab.git
 cd Python-Data-Engineering-Lab/03-Database-Integration
 ```
 
