@@ -44,7 +44,7 @@ Python 3.10, Requests, BeautifulSoup4, Pandas, SQLite, Pytest, Bash, Conda and L
 Clone the complete repository:
 
 ```bash
-git clone https://github.com/naimNB/Python-Data-Engineering-Lab.git
+git clone https://github.com/bynaim/Python-Data-Engineering-Lab.git
 cd Python-Data-Engineering-Lab/04-Automated-ETL
 ```
 
