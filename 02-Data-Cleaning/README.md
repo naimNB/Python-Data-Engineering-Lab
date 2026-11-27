@@ -51,7 +51,7 @@ The original Task 01 dataset remains unchanged.
 Clone the repository and navigate to the project:
 
 ```bash
-git clone https://github.com/bynaim/Python-Data-Engineering-Lab.git
+git clone https://github.com/naimNB/Python-Data-Engineering-Lab.git
 cd Python-Data-Engineering-Lab/02-Data-Cleaning
 ```
 
