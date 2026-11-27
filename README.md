@@ -43,7 +43,7 @@ Each project has its own setup instructions and tests in its linked README.
 Clone the full repository:
 
 ```bash
-git clone https://github.com/bynaim/Python-Data-Engineering-Lab.git
+git clone https://github.com/naimNB/Python-Data-Engineering-Lab.git
 cd Python-Data-Engineering-Lab
 ```
 
